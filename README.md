@@ -1,6 +1,5 @@
 # 🌐 Sayan Mazumder – Portfolio Website  
 
-![Portfolio Preview](sayan.jpg)
 
 ## 🚀 Live Demo
 🔗 **Visit My Portfolio:** [https://sayanmazumder75.github.io/portfolio/](https://sayanmazumder75.github.io/portfolio/)
